@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x992F298Ff10FEC97e2581CDeE4DF47a103a6962D",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x992f298ff10fec97e2581cdee4df47a103a6962d",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "MyTestCollect",
+  "SYMBOL": "MyTC",
+  "MAX_SUPPLY": 992,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/mytestcollect",
+  "SHOW_BACKGROUND": true
+}
